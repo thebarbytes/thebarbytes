@@ -13,20 +13,9 @@ Self-taught. Systems-minded. 19 years old and still going.
 It's to be the one who actually ships."*
 
 
-<div style="display: flex; flex-direction: row; gap: 15px; flex-wrap: wrap;">
-<a href="https://zyrusan-dev.vercel.app" style="text-decoration: none">
-  <img src="https://img.shields.io/badge/%20Portfolio%20-181818?style=flat-square&logo=vercel&logoColor=white" height="25" alt="Portfolio" />
-</a>
-<a href="https://www.facebook.com/profile.php?id=61591582224094" style="text-decoration: none">
-  <img src="https://img.shields.io/badge/%20Facebook%20-1877F2?style=flat-square&logo=facebook&logoColor=white" height="25" alt="Facebook" />
-</a>
-<a href="https://tiktok.com/@thebarbytes" style="text-decoration: none">
-  <img src="https://img.shields.io/badge/%20TikTok%20-000000?style=flat-square&logo=tiktok&logoColor=white" height="25" alt="TikTok" />
-</a>
-<a href="https://instagram.com/the.bar.bytes" style="text-decoration: none">
-  <img src="https://img.shields.io/badge/%20Instagram%20-E4405F?style=flat-square&logo=instagram&logoColor=white" height="25" alt="Instagram" />
-</a>
-</div>
+
+[![Portfolio](https://img.shields.io/badge/%20Portfolio%20-181818?style=flat-square&logo=vercel&logoColor=white)](https://zyrusan-dev.vercel.app) [![Facebook](https://img.shields.io/badge/%20Facebook%20-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61591582224094) [![TikTok](https://img.shields.io/badge/%20TikTok%20-000000?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@thebarbytes) [![Instagram](https://img.shields.io/badge/%20Instagram%20-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/the.bar.bytes)
+
 </div>
 
 
