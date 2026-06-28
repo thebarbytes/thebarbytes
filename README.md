@@ -1,15 +1,20 @@
-<div align="center">
-### `< Full-Stack Engineer · Philippines />`
+<div style="display: flex; flex-direction: column; align-items: center; gap: 3px;">
+<h3>Full-Stack Engineer · Philippines</h3>
 
-Building products that actually ship — web, mobile, AI-integrated, payment-wired, realtime.  
+<p>Building products that actually ship — web, mobile, AI-integrated, payment-wired, realtime.</p>  
 Self-taught. Systems-minded. 19 years old and still going.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-zyrusan--dev.vercel.app-black?style=flat-square&logo=vercel&logoColor=white)](https://zyrusan-dev.vercel.app)
-[![Facebook](https://img.shields.io/badge/BarBytes-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com)
-[![TikTok](https://img.shields.io/badge/@jaytheathlete-000000?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com)
-[![Instagram](https://img.shields.io/badge/@jaytheathlete-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com)
+<div style="display: flex; flex-direction: row; gap: 3px;" align="center">
+  <a href="https://zyrusan-dev.vercel.app"><img src="https://img.shields.io/badge/zyrusan--dev.vercel.app-black?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://facebook.com"><img src="https://img.shields.io/badge/BarBytes-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://tiktok.com"><img src="https://img.shields.io/badge/@jaytheathlete-000000?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok"></a>
+  <a href="https://instagram.com"><img src="https://img.shields.io/badge/@jaytheathlete-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+</div>
 
 </div>
+<marquee behavior="scroll" direction="left" scrollamount="5">
+  🚀 Welcome to my repository! Check out the latest updates below.
+</marquee>
+
 
 ---
 
@@ -132,7 +137,7 @@ Built a full terminal UI VIMS in C++ with FTXUI (no graphics lib — pure TUI). 
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=XyrelTenz&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=thebarbytes&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -140,7 +145,7 @@ Built a full terminal UI VIMS in C++ with FTXUI (no graphics lib — pure TUI). 
 
 ## 📌 Featured
 
-### [PubMarket v2](https://github.com/XyrelTenz) — *Philippine Local Marketplace*
+### [PubMarket v2](https://github.com/thebarbytes) — *Philippine Local Marketplace*
 > Next.js 15 App Router · Supabase · TypeScript · Tailwind · shadcn/ui · PayMongo · Zustand · Zod
 
 Multi-role marketplace (customer / seller / admin) with realtime chat, 20-table PostgreSQL schema, full RLS policies, PayMongo checkout, and Vercel AI SDK integration. Originally a school project (strong grade). v2 is the production rebuild.
