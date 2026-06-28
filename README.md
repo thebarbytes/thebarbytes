@@ -12,7 +12,7 @@ Self-taught. Systems-minded. 19 years old and still going.
 
 </div>
 <marquee behavior="scroll" direction="left" scrollamount="5">
-  🚀 Welcome to my repository! Check out the latest updates below.
+  🚀 Welcome to my repository! Check out the latest updates below. 🚀 Welcome to my repository! Check out the latest updates below. 🚀 Welcome to my repository! Check out the latest updates below. 🚀 Welcome to my repository! Check out the latest updates below. 🚀 Welcome to my repository! Check out the latest updates below. 🚀 Welcome to my repository! Check out the latest updates below.
 </marquee>
 
 
