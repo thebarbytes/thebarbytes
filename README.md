@@ -84,9 +84,7 @@ It's to be the one who actually ships."*
 | 🎓 **Capstone Projects** | ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![PayMongo](https://img.shields.io/badge/PayMongo-0070BA?style=flat-square&logo=stripe&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white) | Web + mobile, AI-integrated, payment-wired — defense-ready and fully documented |
 ---
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=thebarbytes&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=57A143&icon_color=57A143&text_color=ffffff&border_radius=0" height="170" />
-<img src="https://streak-stats.demolab.com/?user=thebarbytes&hide_border=true&background=00000000&ring=57A143&fire=57A143&currStreakLabel=57A143&sideLabels=ffffff&dates=888888&sideNums=ffffff&currStreakNum=57A143" height="170" />
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 </div>
 </div>
