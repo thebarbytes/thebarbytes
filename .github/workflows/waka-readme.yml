@@ -12,17 +12,19 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.THEBARBYTES_SECRET }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          SHOW_TOTAL: true
-          SHOW_PROFILE: true
-          SHOW_OS: true
-          SHOW_EDITORS: true
-          SHOW_LANGUAGE: true
-          SHOW_PROJECTS: true
-          SHOW_TIMEZONE: true
-          SHOW_COMMIT: true
-          SHOW_DAYS_OF_WEEK: true
+          WAKATIME_API_KEY: ${{ secrets.THEBARBYTES_SECRET }}
+          SHOW_TITLE: true
           BLOCKS: ░▒▓█
           TIME_RANGE: all_time
-          COMMIT_BY_ME: true
+          LANG_COUNT: 10
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          SHOW_MASKED_TIME: false
+          STOP_AT_OTHER: false
+          COMMIT_MESSAGE: "Updated waka-readme stats"
+          TARGET_BRANCH: main
+          TARGET_PATH: README.md
+          COMMITTER_NAME: GitHubActionBot
+          COMMITTER_EMAIL: action-bot@github.com
+          AUTHOR_NAME: thebarbytes
