@@ -85,6 +85,17 @@ It's to be the one who actually ships."*
 ---
 <div align="center">
 <!--START_SECTION:waka-->
+
+```txt
+Total Time: 31 mins
+
+Other        13 mins               ███████▓░░░░░░░░░░░░░░░░░   30.04 %
+TypeScript   12 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.62 %
+Markdown     11 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.18 %
+C++          7 mins                ████░░░░░░░░░░░░░░░░░░░░░   16.40 %
+gitignore    0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+```
+
 <!--END_SECTION:waka-->
 </div>
 </div>
