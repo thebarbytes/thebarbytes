@@ -87,20 +87,20 @@ It's to be the one who actually ships."*
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 June 2026 - To: 02 July 2026
+From: 27 June 2026 - To: 03 July 2026
 
-Total Time: 20 hrs 32 mins
+Total Time: 28 hrs 6 mins
 
-TypeScript      11 hrs 50 mins        █████████████▓░░░░░░░░░░░   55.01 %
-Markdown        5 hrs 10 mins         ██████░░░░░░░░░░░░░░░░░░░   24.07 %
-PHP             1 hr 39 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 %
-Other           57 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
-gitignore       25 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
-JSON            17 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
-SQL             13 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-JavaScript      13 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-Ezhil           9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
-Text            8 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+TypeScript      17 hrs 24 mins        ███████████████░░░░░░░░░░   59.85 %
+Markdown        5 hrs 57 mins         █████░░░░░░░░░░░░░░░░░░░░   20.50 %
+PHP             1 hr 40 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
+Other           57 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+Text            38 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+Ezhil           33 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+gitignore       25 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+Lua             18 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+JSON            17 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+SQL             13 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 ```
 
 <!--END_SECTION:waka-->
