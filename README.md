@@ -87,7 +87,7 @@ It's to be the one who actually ships."*
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 June 2026 - To: 21 July 2026
+From: 27 June 2026 - To: 22 July 2026
 
 Total Time: 55 hrs 33 mins
 
