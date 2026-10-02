@@ -14,7 +14,7 @@ It's to be the one who actually ships."*
 
 
 
-[![Portfolio](https://img.shields.io/badge/%20Portfolio%20-181818?style=flat-square&logo=vercel&logoColor=white)](https://zyrusan-dev.vercel.app) [![Facebook](https://img.shields.io/badge/%20Facebook%20-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61591582224094) [![TikTok](https://img.shields.io/badge/%20TikTok%20-000000?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@thebarbytes) [![Instagram](https://img.shields.io/badge/%20Instagram%20-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/the.bar.bytes)
+[![Portfolio](https://img.shields.io/badge/%20Portfolio%20-181818?style=flat-square&logo=vercel&logoColor=white)](https://zyrusan-dev.vercel.app) [![Facebook](https://img.shields.io/badge/%20Facebook%20-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61591582224094) [![TikTok](https://img.shields.io/badge/%20TikTok%20-000000?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@jeraldtheathlete) [![Instagram](https://img.shields.io/badge/%20Instagram%20-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/jeraldtheathlete)
 
 </div>
 
