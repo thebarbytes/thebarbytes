@@ -87,20 +87,20 @@ It's to be the one who actually ships."*
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 June 2026 - To: 13 October 2026
+From: 27 June 2026 - To: 14 October 2026
 
-Total Time: 127 hrs 54 mins
+Total Time: 132 hrs 36 mins
 
-C++                        45 hrs 6 mins         ████████▓░░░░░░░░░░░░░░░░   34.98 %
-TypeScript                 36 hrs 15 mins        ███████░░░░░░░░░░░░░░░░░░   28.11 %
-Markdown                   23 hrs 50 mins        ████▓░░░░░░░░░░░░░░░░░░░░   18.49 %
-Lua                        5 hrs 45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
-Ezhil                      2 hrs 55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
-CMake                      2 hrs 32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
-kitty                      2 hrs 5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
-PHP                        1 hr 40 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
-Text                       1 hr 21 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-Other                      1 hr 3 mins           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+C++                        46 hrs 12 mins        ████████▓░░░░░░░░░░░░░░░░   34.53 %
+TypeScript                 36 hrs 46 mins        ███████░░░░░░░░░░░░░░░░░░   27.48 %
+Markdown                   23 hrs 55 mins        ████▒░░░░░░░░░░░░░░░░░░░░   17.87 %
+Lua                        6 hrs 21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
+Ezhil                      2 hrs 55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+CMake                      2 hrs 33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+kitty                      2 hrs 9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+PHP                        1 hr 40 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+Astro                      1 hr 33 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+Text                       1 hr 21 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
 ```
 
 <!--END_SECTION:waka-->
